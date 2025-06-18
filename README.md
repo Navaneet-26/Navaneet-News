@@ -1,7 +1,8 @@
 News Website
 
 Side bar section completed
+Home section completed🏚️
 
 In progress🧑‍💻
 
-Home section and other stuff.😊
+Single post and other stuff.😊
