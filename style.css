@@ -73,6 +73,7 @@
     padding:20px;
     background-color: rgb(248, 245, 243);
     flex:1;
+    overflow-y:auto;
 }
 .search-bar {
     display: flex;
