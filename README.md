@@ -1,13 +1,14 @@
-News Website
+News Website (Mini project)
 
 Completed
 
-.Side bar section,
-.Home section 🏚️,
-.Single post📝,
+. Side bar section,
+. Home section 🏚️,
+. Single post📝,
+. News section
 
 In progress🧑‍💻
 
- News section and Responsive.😊
+. Responsive.😊
 
- website project link will live soon.
+. website live link update soon.
