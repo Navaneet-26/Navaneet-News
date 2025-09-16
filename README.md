@@ -1,4 +1,4 @@
-News Website (Mini project)
+Desktop only News Website (Mini project)
 
 Completed
 
@@ -7,8 +7,4 @@ Completed
 . Single post📝,
 . News section
 
-In progress🧑‍💻
 
-. Responsive.😊
-
-. website live link update soon.
